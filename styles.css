@@ -1,0 +1,56 @@
+#parent{
+    font-family:system-ui;
+    display: flex;
+}
+#narrow{
+    /*width: 500px;*/
+    flex: 1;
+    background-color: rgb(146, 158, 170);
+}
+#wide{
+    /*width: 500px;*/
+    flex: 1;
+    background-color: rgb(146, 158, 170);
+}
+#section1{
+    background-color: rgb(103, 170, 192);
+    height: 250px;
+}
+#section2{
+    background-color: rgb(95, 163, 165);
+    height: 250px;
+}
+#section3{
+    background-color: rgb(146, 158, 170);
+}
+.perfilImage{
+    margin: 10px 10px 10px 10px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.uscpLogo{
+    margin: 10px 10px 10px 10px;
+    height: 40%;
+    width: 40%;
+}
+.logo{
+    height: 15px;
+    width: 15px;
+}
+body{
+    background-color: rgb(146, 158, 170);
+}
+h1, h2, h3, h4, h5{
+    margin: 10px 10px 10px 10px;
+}
+p{
+    margin: 15px 15px 15px 15px;
+}
+ul{
+    margin: 10px 10px 10px 10px;
+}
+hr{
+    border-bottom: 2px solid #726f60;
+    width: 75%;
+}
